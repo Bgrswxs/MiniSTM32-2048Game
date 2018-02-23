@@ -11,3 +11,4 @@
 - 触摸屏(TFTLCD模块自带了) 
 
 简单的演示：http://v.youku.com/v_show/id_XMzQxODEwMDU2MA
+触摸操作，上下左右滑动控制方向
