@@ -10,3 +10,4 @@
 - 按键KEY0(PC5) 
 - 触摸屏(TFTLCD模块自带了) 
 
+简单的演示：http://v.youku.com/v_show/id_XMzQxODEwMDU2MA
